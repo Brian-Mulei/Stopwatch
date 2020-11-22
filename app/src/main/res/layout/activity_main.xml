@@ -50,5 +50,4 @@
         android:onClick="onClickReset"
         android:text="@string/reset"
         />
-
-</RelativeLayout>
+ </RelativeLayout>
